@@ -1,0 +1,380 @@
+#推荐电台
+国际电台怀旧金曲        mms://live.cri.cn/oldies/
+国际电台都市流行        mms://live.cri.cn/pop/
+菲特思综艺广播台        mms://117.34.72.114/music
+一听网络音乐电台        mms://online-radio.1ting.com/music
+青檬网络音乐电台        mms://pub1.qmoon.net/911pop?cccode=cc1325
+广东电台音乐之声        mms://live.rgd.com.cn/993
+广东珠江经济电台        mms://live.rgd.com.cn/974
+深圳电台飞扬音乐        mms://vod.szr.com.cn/szr_2
+佛山电台飞跃924         mms://59.38.110.90/924
+佛山电台千色985         mms://59.38.110.90/985
+KissRadio音乐台         mms://bcr.media.hinet.net/RA000042
+北京电台怀旧金曲        mms://alive.bjradio.com.cn/cfm1075
+湖南电台音乐之声        mms://202.103.67.185/音乐
+无锡电台音乐台          rtsp://vs1.thmz.com/radio31
+银河台古典音乐          mms://media.radio.cn/radio4
+猫扑网络电台            mms://ting.mop.com/mopradio
+厦门音乐广播            mms://mediasrv2.iptv.xmg.com.cn/yinyue
+银河相声小品            mms://media.radio.cn/radio2
+上海故事广播            mms://diantai.smgbb.cn/sgwy
+合肥故事广播            mms://218.185.192.4/audio4
+
+#网络电台
+猫扑电台                mms://ting.mop.com/mopradio
+CVC中文电台             http://www2.cvc.tv/stream/CVC_Chinese_24kbps.m3u
+QQ综艺之声              http://qr.fm.qq.com/qqradio?qqradio
+QQ-都市流行             rtsp://live.cri.cn/pop
+银河电台中国民乐        mms://media.radio.cn/radio1
+银河评书联播            mms://media.radio.cn/radio3
+香港AirPOWER            rtsp://live.onairpower.com:444/
+大爱网路电台            rtsp://bcr.media.hinet.net/RA000017
+青少年音乐台            rtsp://58.63.245.9/live/stream=3
+青檬音乐台              mms://pub1.qmoon.net/911pop?cccode=cc1325
+华语之声综合            rtsp://60.191.21.139/hy960/rtx
+i-RADIO网路音乐台       http://www.iradio.com.tw/radio.asx
+西洋精选情歌            mms://media.justaiwan.com/03
+50、60年代西洋歌曲      mms://media.justaiwan.com/04
+派对音乐                mms://media.justaiwan.com/07
+爵士演唱                mms://media.justaiwan.com/09
+爵士演奏                mms://media.justaiwan.com/10
+昭和平成演歌名曲        mms://media.justaiwan.com/12
+东洋流行畅销歌曲        mms://media.justaiwan.com/13
+巴西爵士                mms://media.justaiwan.com/15
+钢琴演奏                mms://media.justaiwan.com/17
+水晶音乐                mms://media.justaiwan.com/18
+舒适环境音乐            mms://media.justaiwan.com/19
+季节音乐                mms://media.justaiwan.com/20
+怀旧留声机              mms://media.justaiwan.com/21
+华语流行畅销            mms://media.justaiwan.com/22
+中国古典乐              mms://media.justaiwan.com/24
+儿童音乐                mms://media.justaiwan.com/25
+生日快乐                mms://media.justaiwan.com/27
+結婚进行曲/晚安曲       mms://media.justaiwan.com/28
+甜蜜情歌                mms://media.justaiwan.com/29
+POP流行新曲(节庆音乐    mms://media.justaiwan.com/30
+时尚音乐                mms://media.justaiwan.com/37
+轻松旋律                mms://media.justaiwan.com/43
+轻音乐                  mms://media.justaiwan.com/38
+
+##广东电台
+
+广东电台音乐之声        mms://live.fm993.com.cn/musicfm
+广东珠江经济台          mms://live.rgd.com.cn/974
+广东电台股市广播        mms://live.rgd.com.cn/953
+广东南方生活广播        mms://live.rgd.com.cn/936
+广东电台城市之声        mms://media.fm1036.com/liveaudio
+广东电台卫星广播        mms://live.rgd.com.cn/914
+广东羊城交通台          mms://live.rgd.com.cn/1052
+广东电台文体广播        mms://live.rgd.com.cn/1077
+广州花都广播电台        http://www.941gb.com/941gb/04/06.asx
+深圳电台新闻频率        mms://vod.szr.com.cn/szr_1
+深圳电台飞扬音乐        mms://vod.szr.com.cn/szr_2
+深圳电台交通频率        mms://vod.szr.com.cn/szr_3
+深圳电台生活频率        mms://vod.szr.com.cn/szr_4
+佛山电台畅游883         mms://59.38.110.90/883
+佛山电台顺德901         mms://59.38.110.90/901
+佛山电台缤纷906         mms://59.38.110.90/906
+佛山电台飞跃924         mms://59.38.110.90/924
+佛山电台真爱946         mms://59.38.110.90/946
+佛山电台千色985         mms://59.38.110.90/985
+珠海电台新闻资讯        mms://www.zhtv.com/fm951
+珠海电台交通文艺        mms://www.zhtv.com/fm875
+东莞电台新闻综合        mms://radio.sun0769.com/fm1008
+东莞电台交通音乐        mms://radio.sun0769.com/fm1075
+江门电台新闻综合        mms://116.254.197.80/fm1002
+江门电台旅游音乐        mms://116.254.197.80/fm933
+汕头电台新闻资讯        mms://media.strtv.cn/strch1
+汕头电台经济生活        mms://media.strtv.cn/strch2
+汕头电台音乐之声        mms://media.strtv.cn/strch3
+潮州电台综合频道        http://219.131.159.151/czdt939
+潮州电台戏曲之声        http://219.131.159.150/czdt1031
+澄海广播电台            mms://bbs.hepan.net.cn/chdt
+遂溪广播电台            mms://219.129.71.70:8080/
+连州广播电台            mms://210.77.103.131:8080/
+鹤山电台1047            mms://211.156.182.134/fm1047
+新会广播电台            mms://220.249.194.132:8080/
+
+
+#中央电台
+中央电台中国之声        mms://mms.cnr.cn//cnr1?MTUjMCM
+中央电台经济之声        mms://mms.cnr.cn//cnr2?MTUjMCM
+中央电台音乐之声        mms://mms.cnr.cn//cnr3?MTUjMCM
+中央电台都市之声        mms://mms.cnr.cn//cnr4?MTUjMCM
+中央电台中华之声        mms://mms.cnr.cn//cnr5?MTUjMCM
+中央电台神州之声        mms://mms.cnr.cn//cnr6?MTUjMCM
+中央电台民族之声        mms://mms.cnr.cn//cnr8?MTUjMCM
+中央电台华夏之声        mms://media.radio.cn/live
+中央电台文艺之声        mms://mms.cnr.cn//cnr9?MTUjMCM
+中国国际电台网络        mms://living.chinabroadcast.cn/inet
+国际电台HitFm887        mms://live.hitfm.cn/fm887
+国际电台新闻频道        mms://media.crinewsradio.cn/crinewsradio
+国际在线                mms://219.142.120.27/chn
+国际电台EASY FM         mms://enmms.chinabroadcast.cn/fm91.5
+国际在线音乐广播        mms://enmms.chinabroadcast.cn/am1008
+国际电台怀旧金曲        mms://live.cri.cn/oldies
+国际电台都市流行        mms://live.cri.cn/pop
+国际电台乡村民谣        mms://live.cri.cn/country
+国际电台Round the Clock mms://livexwb.cri.com.cn/clock
+国际电台Nairobi 91.9    mms://livexwb.cri.com.cn/kenya
+国际电台Vientiane 93.0  mms://livexwb.cri.com.cn/lao
+国际电台Perth 104.9     mms://livexwb.cri.com.cn/aus
+国际电台CapitalService1 mms://enmms.chinabroadcast.cn/am846
+国际电台CapitalService2 mms://living.chinabroadcast.cn/en2
+
+#北京电台
+北京电台新闻广播        mms://alive.bjradio.com.cn/fm1006
+北京电台故事广播        mms://alive.bjradio.com.cn/am603
+北京电台长书广播        mms://alive.bjradio.com.cn/cfm1043
+北京电台城市管理        mms://alive.bjradio.com.cn/fm1073
+北京电台外语广播        mms://alive.bjradio.com.cn/am774
+北京电台戏曲曲艺        mms://alive.bjradio.com.cn/cfm1051
+北京电台交通广播        mms://alive.bjradio.com.cn/fm1039
+北京电台欢乐时光        mms://alive.bjradio.com.cn/cfm1065
+北京电台文艺广播        mms://alive.bjradio.com.cn/fm876
+北京电台怀旧金曲        mms://alive.bjradio.com.cn/cfm1075
+北京电台体育广播        mms://alive.bjradio.com.cn/fm1025
+北京电台通俗音乐        mms://alive.bjradio.com.cn/cfm970
+北京电台音乐台          mms://alive.bjradio.com.cn/fm974
+北京电台爱家广播        mms://alive.bjradio.com.cn/am927
+北京电台古典音乐        mms://alive.bjradio.com.cn/cfm986
+北京电台教学广播        mms://alive.bjradio.com.cn/cfm994
+
+
+#湖南电台
+湖南电台交通频道        mms://202.103.67.185/交通
+湖南电台经济频道        mms://202.103.67.185/经济
+湖南电台文艺频道        mms://202.103.67.185/文艺
+湖南电台新闻广播        mms://202.103.67.185/新闻
+湖南电台乡村之声        mms://202.103.67.185/乡村
+湖南电台旅游频道        mms://220.168.7.27/旅游
+湖南电台音乐之声        mms://202.103.67.185/音乐
+金鹰之声                mms://real.rednet.cn/955
+
+
+#港澳电台
+香港电台第一台          rtsp://202.177.192.111/radio1
+香港电台第二台          rtsp://202.177.192.111/radio2
+香港电台第三台          rtsp://202.177.192.111/radio3
+香港电台第四台          rtsp://202.177.192.111/radio4
+香港电台第五台          rtsp://202.177.192.111/radio5
+香港电台普通话台        mms://202.177.192.111/ptc
+新城知讯台              http://s1.104mfonline.com.hk/Encoder4
+新城财经台              http://s1.104mfonline.com.hk/Encoder5
+新城采讯台              http://s1.104mfonline.com.hk/Encoder3
+香港商业雷霆881         http://www.941gb.com/941gb/23/881.asx
+香港商业叱咤903         http://www.941gb.com/941gb/23/903.asx
+
+#上海电台
+上海电台新闻频率        mms://218.1.74.230/sgxw
+上海电台交通频率        mms://218.1.74.230/sgjt
+上海电台都市792         mms://218.1.74.230/ds792
+上海电台动感101         http://www.smgbb.cn/101/live101web.asx
+上海电台LoveRadio       mms://218.1.74.230/ml103
+上海电台经典947         mms://218.1.74.230/jd947
+上海电台第一财经        mms://218.1.74.230/dycj
+上海电台故事调频        mms://218.1.74.230/sgwy
+上海电台海上戏剧        mms://218.1.74.230/sgxj
+上海电台体育频率        mms://218.1.74.230/sport
+东广电台新闻台          mms://218.1.74.230/dgxw
+
+#浙江电台
+杭州电台新闻广播        mms://218.108.20.172/audio_live1
+杭州电台金秋频率        mms://60.191.126.66/audio_fm89
+杭州电台丽人广播        mms://218.108.107.169/丽人广播/
+杭州电台西湖之声        mms://218.108.20.172/audio_fm89
+温州电台经济生活        rtsp://61.164.128.51/live
+温州电台音乐广播        rtsp://61.164.128.51/yyt
+温州电台新闻广播        rtsp://61.164.128.51/xwt
+温州电台交通广播        mms://61.164.128.51/jjt
+金华电台新闻综合        mms://211.140.147.252/1          1
+金华电台经济频率        mms://211.140.147.252/2          1
+金华电台交通音乐        mms://211.140.147.252/3          1
+萧山电台有线广播        rtsp://vod.xsgd.net/yx98
+萧山调频广播电台        rtsp://vod.xsgd.net/xs107.9
+瑞安电台910             mms://www.rabtv.cn/fm910/
+瑞安电台107             mms://www.rabtv.cn/fm107/
+台州电台音乐广播        mms://60.191.151.178/fm100
+台州电台新闻综合        mms://60.191.151.178/fm987
+台州电台交通广播        mms://60.191.151.178/fm1027
+绍兴县广播电台          mms://www.fm106.cn/fm106
+舟山人民广播电台        mms://av.zhoushan.cn/Radio
+千岛湖之声              rtsp://218.108.70.60/fm101
+
+#江苏电台
+江苏电台财经广播        mms://vod2.jsbc.com/audio0
+江苏电台经典音乐        mms://vod2.jsbc.com/audio3.jsgd
+江苏电台音乐频率        mms://vod2.jsbc.com/audio4.jsgd
+江苏电台故事广播        mms://vod2.jsbc.com/audio2.jsgd
+江苏电台文艺广播        mms://vod2.jsbc.com/1053.jsbc
+江苏电台交通广播        mms://vod2.jsbc.com/audio7123.jsgd
+江苏电台新闻广播        mms://vod2.jsbc.com/937.jsbc
+江苏电台新闻频率        mms://vod2.jsbc.com/audio1.jsgd
+江苏电台健康广播        mms://vod2.jsbc.com/audio6.jsgd
+南京电台101(江苏)       rtsp://ralive.njbg.com.cn/fm101.7           改
+南京电台103(江苏)       rtsp://ralive.njbg.com.cn/myfm
+南京电台新闻96.6        rtsp://ralive.njbg.com.cn/njxw96.6
+南京电台交通频率        rtsp://ralive.njbg.com.cn/fm102.4
+南京电台音乐频率        rtsp://ralive.njbg.com.cn/fm105.8
+南京电台体育频率        rtsp://ralive.njbg.com.cn/fm104.3
+南京电台经济频率        mms://ralive.njbg.com.cn/njjj
+南京电台新闻频率        rtsp://ralive.njbg.com.cn/njxw
+无锡电台交通台          rtsp://vs1.thmz.com/radio21
+无锡电台新闻台          rtsp://vs1.thmz.com/radio11
+无锡电台经济台          rtsp://vs1.thmz.com/radio41
+无锡电台音乐台          rtsp://vs1.thmz.com/radio31
+无锡电台江南之声        rtsp://vs1.thmz.com/radio61
+无锡电台都市生活        rtsp://vs1.thmz.com/radio51
+常熟新闻综合            mms://sound.am1116.com/am1116
+常熟交通音乐            mms://sound.am1116.com/fm1008
+常熟经济服务            mms://sound.am1116.com/am927
+徐州电台音乐台          mms://218.3.205.21/dsylpl
+徐州电台文艺台          mms://218.3.205.21/wypl
+徐州电台交通台          mms://218.3.205.21/jtpl
+徐州电台新闻台          mms://218.3.205.21/xwpl
+徐州电台城市台          mms://218.3.205.21/csgb
+常州电台戏曲台          mms://vod1.cztv.tv/747
+常州电台交通台          mms://vod1.cztv.tv/fm90
+常州电台资讯娱乐        mms://vod1.cztv.tv/fm1034
+常州电台新闻综合        mms://vod1.cztv.tv/846
+常州电台生活健康        mms://vod1.cztv.tv/1143
+常州电台城市调频        mms://vod1.cztv.tv/fm105.2
+常州电台怀旧频率        mms://vod1.cztv.tv/927
+常州电台汽车频率        mms://vod1.cztv.tv/fm100.1
+苏州电台音乐广播        mms://58.211.0.53/948
+苏州电台交通广播        mms://58.211.0.53/1048
+苏州电台新闻广播        mms://58.211.0.53/911
+苏州电台生活广播        mms://58.211.0.53/fm
+苏州电台欢乐都市夜      mms://live.enjoynight.cn/1048
+苏州电台故事广播        mms://58.211.0.53/1028
+扬州电台交通广播        mms://218.106.97.4/jtt/
+扬州电台经济广播        mms://218.106.97.4/jjt/
+扬州电台新闻广播        mms://218.106.97.4/xwt/
+
+#四川电台
+四川电台经济电台        mms://218.6.174.14/fm89.4
+四川电台新闻频率        mms://218.6.172.53/fm6
+四川电台岷江音乐        mms://218.6.174.14/FM95.5/Live.asf
+四川电台城市之声        mms://218.6.174.14/fm102.6
+四川电台交通频道        mms://218.6.174.14/fm101.7
+四川电台都市生活        mms://218.6.172.53/fm5
+四川电台财富广播        mms://218.6.172.53/fm1
+乐山电台新闻频道        mms://218.6.224.44/fm102.8
+
+
+#广西电台
+广西电台卫星广播        mms://222.216.110.227:6060/audio4
+广西电台对外广播        mms://222.216.110.227:6060/audio6
+广西电台交通台          mms://222.216.110.227:6060/audio5
+广西电台文艺广播        mms://222.216.110.227:6060/audio2
+广西电台教育生活        mms://222.216.110.227:6060/audio1
+广西电台经济广播        mms://222.216.110.227:6060/audio3
+玉林电台新闻综合        mms://www.yldt.com/live_xw
+玉林电台交通音乐        mms://www.yldt.com/live_jt
+百色广播电台            mms://222.83.250.12/bsradio
+钦州电台音乐广播        mms://www.gxqzdt.com:1056/
+
+
+#海南电台
+海南经济广播            mms://218.77.178.156/LIVECAM1
+海南新闻广播            mms://218.77.178.163/LIVECAM8
+海南交通广播            mms://218.77.178.163/LIVECAM9
+海南文艺广播            mms://218.77.178.163/LIVECAM10
+
+#福建电台
+福建电台经济广播        mms://202.109.202.12/jj?MjYzODM0IzEjIzI0NDk5MQ==
+福建电台东南广播        http://video.fjtv.net:8080/mms3.0/videoPlay/findBroadcastUrl.jspa?channelID=21&channelType=0
+福建电台音乐广播        mms://61.131.4.183/fm913
+福建电台华艺广播        http://www.hi-fm.com/liveradio/wmp90047.asx
+福建都市生活广播        http://www.fm987.com.cn/Radio/52987radio.asx
+厦门电台新闻广播        mms://mediasrv1.iptv.xmg.com.cn/xinwen
+厦门电台经济交通        mms://mediasrv1.iptv.xmg.com.cn/jingji
+厦门电台音乐广播        mms://mediasrv1.iptv.xmg.com.cn/yinyue
+厦门电台闽南之声        mms://mediasrv1.iptv.xmg.com.cn/minnan
+厦门电台旅游广播        mms://mediasrv2.iptv.xmg.com.cn/tour
+华艺广播电台            mms://218.5.3.181:1250/
+德化广播电台            mms://122.227.16.189/dhgb
+福州音乐广播            rtsp://120.35.7.66/FZRDM
+福州电台新闻广播        rtsp://120.35.7.66/FZRDN
+福州电台交通之声        rtsp://120.35.7.66/FZRDT
+
+
+#天津电台
+天津电台古典音乐        http://61.136.19.228/live15
+天津电台小说广播        mms://61.136.19.228/live8
+天津电台区县广播        http://61.136.19.228/live11
+天津电台音乐频道        mms://61.136.19.228/live2
+天津电台生活广播        mms://61.136.19.228/live6
+天津电台经济广播        mms://61.136.19.228/live3
+天津电台交通广播        mms://61.136.19.228/live5
+天津电台外语广播        http://61.136.19.228/live16
+天津电台戏曲广播        http://61.136.19.228/live14
+塘沽电台滨海之声        mms://60.30.52.215/binhairadio
+天津电台新闻广播        mms://61.136.19.228/live1
+
+#山东电台
+山东电台故事乡村        mms://media.sdgb.cn/gushixiangcun
+山东电台数字休闲        mms://media.sdgb.cn/shuzixiuxian
+山东电台文艺频道        mms://media.sdgb.cn/wenyi
+山东电台新闻频道        mms://media.sdgb.cn/xinwen
+山东电台经济频道        mms://media.sdgb.cn/jingji
+山东电台生活频道        mms://media.sdgb.cn/shenghuo
+山东电台交通频道        mms://media.sdgb.cn/jiaotong
+山东电台音乐频道        mms://media.sdgb.cn/yinyue
+山东电台经济FM96        mms://media.sdgb.cn/jingji96
+山东电台体育休闲        mms://media.sdgb.cn/tiyuxiuxian
+济南电台音乐887         mms://210.77.193.6/music1
+济南电台经济频道        mms://210.77.193.6/jingji
+济南电台交通频率        mms://210.77.193.6/jiaotong
+济南电台文艺频道        mms://210.77.193.6/wenyi
+济南电台音乐频道        mms://210.77.193.6/music1
+青岛电台交通广播        http://www.qingdaomedia.com/jtgb.asx
+青岛电台文艺广播        http://www.qingdaomedia.com/wygb.asx
+青岛电台经济频率        http://www.qingdaomedia.com/jjgb.asx
+青岛电台新闻频道        http://www.qingdaomedia.com/qdgb.asx
+青岛电台快乐603         http://www.qingdaomedia.com/jjgb2.asx
+潍坊电台887             rtsp://222.132.26.195/fm887
+潍坊电台908             rtsp://222.132.26.195/fm908
+
+#安徽电台
+安徽电台农村广播        mms://live.ahradio.com.cn/ncgb
+安徽电台交通广播        mms://live.ahradio.com.cn/jtgb
+安徽电台生活广播        mms://live.ahradio.com.cn/shgb
+安徽电台音乐广播        mms://live.ahradio.com.cn/yygb
+安徽电台经济广播        mms://live.ahradio.com.cn/jjgb
+安徽电台新闻广播        mms://live.ahradio.com.cn/xwgb
+安徽电台小说评书        mms://live.ahradio.com.cn/xspsgb
+合肥电台故事广播        mms://218.185.192.4/audio4
+合肥电台交通广播        mms://218.185.192.4/audio3
+合肥电台文艺广播        mms://218.185.192.4/audio2
+合肥电台新闻综合        mms://218.185.192.4/audio1
+淮南电台新闻综合        mms://202.102.208.42/live4
+淮北电台新闻综合        mms://moive.0561news.com/hbgb1
+淮北电台经济生活        mms://moive.0561news.com/hbgb3
+淮北电台交通广播        mms://moive.0561news.com/hbgb2
+
+#湖北电台
+湖北电台新闻综合        mms://58.48.156.93/1046
+湖北电台经济广播        mms://58.48.156.93/998
+湖北电台音乐广播        mms://58.48.156.93/1038
+湖北电台交通广播        mms://58.48.156.93/1078
+湖北电台生活广播        mms://58.48.156.93/966
+湖北电台妇女儿童        mms://58.48.156.93/1026
+武汉电台交通频道        mms://whreal.whtv.com.cn/jt
+武汉电台长江经济        mms://whreal.whtv.com.cn/cj
+武汉电台文艺广播        mms://whreal.whtv.com.cn/wy
+武汉电台广播电台        mms://whreal.whtv.com.cn/rm
+楚天电台交通体育        mms://58.48.156.93/927
+楚天电台卫星台          mms://58.48.156.93/916
+楚天电台新闻台          mms://58.48.156.93/1179
+楚天电台音乐广播        mms://58.48.156.93/1058
+宜昌电台都市之声        mms://119.36.136.157:8380/
+宜昌电台交通音乐        mms://119.36.136.157:8180/
+宜昌电台新闻综合        mms://119.36.136.157:8280/
+
+
+#河南电台
+河南音乐广播            mms://vod.hndt.com/yygb
+河南MyRadio             mms://vod.hndt.com/fm90
+河南交通广播            mms://vod.hndt.com/jtgb
+
